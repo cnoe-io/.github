@@ -1,4 +1,4 @@
-CNOE (short fo Cloud Native Operational Excellence) is an open source organization comprised of enterprise companies, sharing best practices on building, testing, and deploying internal developer platforms (IDPs) at enterprise scale.
+CNOE (short for Cloud Native Operational Excellence) is an open source organization comprised of enterprise companies, sharing best practices on building, testing, and deploying internal developer platforms (IDPs) at enterprise scale.
 
 - To start with a developer platform in a development environment, start with [the idpBuilder tool](https://github.com/cnoe-io/idpbuilder) <img src="https://raw.githubusercontent.com/cnoe-io/.github/main/profile/images/github.png" alt="github" style="height: 15px;" />
 
